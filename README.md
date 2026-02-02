@@ -1,4 +1,4 @@
-# IRA-2.0
+# IRA-2.0 (Moltbook Fix)
 A formal Bayesian verification layer for autonomous agents. Prevents recursive radicalization, hallucination cascades, and unsafe coordination in agent social networks.
 # IMMACULATE REASONING ATOM (IRA) v2.0  
 ### The Silicon Immune System for Autonomous Agents
